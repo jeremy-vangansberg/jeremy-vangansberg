@@ -1,22 +1,5 @@
-# Machine Learning Engineer and LLM enthousiast
+# About me
 
-I am a specialist in Azure Cloud, focusing on deploying traditional machine learning models with Azure ML and designing advanced architectures such as LLMs and computer vision using Azure AI services.
+I am a Data Engineer passionate about managing and optimizing data systems while tackling complex challenges. Over the past 4 years, I've helped over 150 professionals enhance their Azure-based data infrastructures. My dual degree in marketing and data provides a cross-functional perspective that bridges strategic insights with technical excellence.
 
-For the past 4 years, I have trained over 150 professionals in AI and data in the Lille region for Microsoft, which has further deepened my expertise in Azure.
-
-With a background in marketing and holding a dual degree in marketing and data, I bring a business-oriented perspective to machine learning projects.
-
-### My technical stack:
-- **Programming languages and libraries**: Python, SQL
-- **Data analysis**: Pandas, matplotlib, PowerBI, Spark
-- **Machine learning and AI**: Scikit-learn, TensorFlow, Keras, PyTorch, LangChain, mlflow
-- **Web development and APIs**: HTML/CSS, Tailwind, Django, Streamlit, Gradio, FastAPI
-- **DevOps and CI/CD tools**: Git, GitHub, GitHub Actions, Docker, Terraform
-- **Data scraping and extraction tools**: Scrapy, BeautifulSoup, Selenium, Requests
-- **Databases and ORMs**: MySQL, PostgreSQL, SQLite, MongoDB, DuckDB, SQLAlchemy, SQLModel
-- **Operating systems and commands**: Linux, Windows, macOS, bash
-- **Agile methodologies and tools**: Scrum, Kanban, Jira
-
-### Current areas of focus:
-- Clean code
-- LLMs & Agents
+I also have a strong interest in machine learning and AI, and many of my repositories feature tutorials as part of my training activities. Currently, I am developing a project called Fiscalia, which aims to offer practical advice on tax and accounting for independent professionals.

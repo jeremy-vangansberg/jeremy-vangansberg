@@ -1,5 +1,5 @@
 # About me
 
-I am a Data Engineer passionate about managing and optimizing data systems while tackling complex challenges. Over the past 4 years, I've helped over 150 professionals enhance their Azure-based data infrastructures. My dual degree in marketing and data provides a cross-functional perspective that bridges strategic insights with technical excellence.
+I am a Data Engineer passionate about data management and software engineering. Over the past 4 years, I've helped more than 120 professionals tackle complex data challenges and optimize data systems. With a dual degree in management and data, I bring a cross-functional perspective that seamlessly blends strategic insight with technical expertise.
 
-I also have a strong interest in machine learning and AI, and many of my repositories feature tutorials as part of my training activities. Currently, I am developing a project called Fiscalia, which aims to offer practical advice on tax and accounting for independent professionals.
+I also have a strong interest in machine learning and AI, and many of my repositories feature tutorials as part of my training activities. Currently, I am developing a project called Fiscalia, which aims to offer practical advice on tax and accounting for french independent professionals.
